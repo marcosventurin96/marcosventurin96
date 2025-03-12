@@ -16,4 +16,5 @@
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
-Em busca de mudanças atraves da programação...
+
+Em busca de mudanças com a programação
